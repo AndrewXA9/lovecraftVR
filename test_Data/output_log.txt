@@ -1,0 +1,420 @@
+Initialize engine version: 5.0.0b17 (54f3197bce1f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 670 (ID=0x1189)
+    Vendor:   NVIDIA
+    VRAM:     1986 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: Z:\Documents\Lovercraft_VR\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading Z:\Documents\Lovercraft_VR\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: Z:\Documents\Lovercraft_VR\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading Z:\Documents\Lovercraft_VR\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: Z:\Documents\Lovercraft_VR\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading Z:\Documents\Lovercraft_VR\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.029 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+<RI> Initialized touch support.
+Platform assembly: Z:\Documents\Lovercraft_VR\test_Data\Managed\System.Core.dll (this message is harmless)
+Finding Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 818 -> priority: 1 
+  Thread -> id: 1bfc -> priority: 1 
+Pickup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.517927 ms
+Finding Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 18744.
+Total: 2.452255 ms (FindLiveObjects: 0.463149 ms CreateObjectMapping: 0.179101 ms MarkObjects: 1.758428 ms  DeleteObjects: 0.051318 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 17a0 -> priority: 1 
+  Thread -> id: aa4 -> priority: 1 
+Pickup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.996531 ms
+Finding Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 15161.
+Total: 2.122020 ms (FindLiveObjects: 0.420555 ms CreateObjectMapping: 0.105459 ms MarkObjects: 1.551615 ms  DeleteObjects: 0.044390 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1b28 -> priority: 1 
+  Thread -> id: 186c -> priority: 1 
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.268438 ms
+Finding Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 30270.
+Total: 4.746449 ms (FindLiveObjects: 0.960425 ms CreateObjectMapping: 0.217077 ms MarkObjects: 3.514548 ms  DeleteObjects: 0.054141 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 13d0 -> priority: 1 
+  Thread -> id: 1af4 -> priority: 1 
+Pickup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Pickup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 16.544064 ms
+Finding Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 18977.
+Total: 2.607493 ms (FindLiveObjects: 0.432615 ms CreateObjectMapping: 0.181667 ms MarkObjects: 1.959597 ms  DeleteObjects: 0.033357 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1a9c -> priority: 1 
+  Thread -> id: 1128 -> priority: 1 
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.050673 ms
+Finding Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 17285.
+Total: 2.937215 ms (FindLiveObjects: 0.592728 ms CreateObjectMapping: 0.201168 ms MarkObjects: 2.095848 ms  DeleteObjects: 0.046956 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1978 -> priority: 1 
+  Thread -> id: 1ae0 -> priority: 1 
+Pickup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Pickup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.136887 ms
+Finding Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 18317.
+Total: 2.573880 ms (FindLiveObjects: 0.556292 ms CreateObjectMapping: 0.179101 ms MarkObjects: 1.805641 ms  DeleteObjects: 0.032587 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1a04 -> priority: 1 
+  Thread -> id: 1840 -> priority: 1 
+Pickup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.387952 ms
+Finding Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 16270.
+Total: 2.436346 ms (FindLiveObjects: 0.442365 ms CreateObjectMapping: 0.188338 ms MarkObjects: 1.759455 ms  DeleteObjects: 0.045930 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 6b4 -> priority: 1 
+  Thread -> id: 41c -> priority: 1 
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.194540 ms
+Finding Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 16145.
+Total: 1.972427 ms (FindLiveObjects: 0.331517 ms CreateObjectMapping: 0.172943 ms MarkObjects: 1.438457 ms  DeleteObjects: 0.029508 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 38 -> priority: 1 
+  Thread -> id: 19f0 -> priority: 1 
+Pickup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.156051 ms
+Finding Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 11069.
+Total: 1.304773 ms (FindLiveObjects: 0.234525 ms CreateObjectMapping: 0.092886 ms MarkObjects: 0.945543 ms  DeleteObjects: 0.031560 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 540 -> priority: 1 
+  Thread -> id: 1b88 -> priority: 1 
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.832546 ms
+Finding Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 20197.
+Total: 3.382916 ms (FindLiveObjects: 0.654824 ms CreateObjectMapping: 0.200911 ms MarkObjects: 2.483046 ms  DeleteObjects: 0.043877 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1968 -> priority: 1 
+  Thread -> id: 598 -> priority: 1 
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.392196 ms
+Finding Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 16136.
+Total: 2.033496 ms (FindLiveObjects: 0.314325 ms CreateObjectMapping: 0.172686 ms MarkObjects: 1.507224 ms  DeleteObjects: 0.039002 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 178c -> priority: 1 
+  Thread -> id: 614 -> priority: 1 
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.225529 ms
+Finding Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 21099.
+Total: 3.309274 ms (FindLiveObjects: 0.661752 ms CreateObjectMapping: 0.191161 ms MarkObjects: 2.402989 ms  DeleteObjects: 0.053114 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1ac0 -> priority: 1 
+  Thread -> id: 310 -> priority: 1 
+Pickup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.339280 ms
+Finding Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 18334.
+Total: 2.906680 ms (FindLiveObjects: 0.591189 ms CreateObjectMapping: 0.188852 ms MarkObjects: 2.077116 ms  DeleteObjects: 0.049265 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: f78 -> priority: 1 
+  Thread -> id: 1b90 -> priority: 1 
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.475390 ms
+Finding Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 21902.
+Total: 3.673635 ms (FindLiveObjects: 0.728979 ms CreateObjectMapping: 0.197832 ms MarkObjects: 2.686011 ms  DeleteObjects: 0.060299 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 144 -> priority: 1 
+  Thread -> id: e04 -> priority: 1 
+Pickup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.477385 ms
+Finding Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 20699.
+Total: 2.789930 ms (FindLiveObjects: 0.641738 ms CreateObjectMapping: 0.175765 ms MarkObjects: 1.938300 ms  DeleteObjects: 0.033613 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4c -> priority: 1 
+  Thread -> id: 1904 -> priority: 1 
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.109489 ms
+Finding Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 19214.
+Total: 2.491770 ms (FindLiveObjects: 0.472386 ms CreateObjectMapping: 0.173456 ms MarkObjects: 1.791272 ms  DeleteObjects: 0.054654 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: d40 -> priority: 1 
+  Thread -> id: 1b5c -> priority: 1 
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.993510 ms
+Finding Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 16130.
+Total: 2.017074 ms (FindLiveObjects: 0.317148 ms CreateObjectMapping: 0.173456 ms MarkObjects: 1.478999 ms  DeleteObjects: 0.047213 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: b80 -> priority: 1 
+  Thread -> id: 6c4 -> priority: 1 
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.286400 ms
+Finding Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 25099.
+Total: 3.239737 ms (FindLiveObjects: 0.589136 ms CreateObjectMapping: 0.189108 ms MarkObjects: 2.409917 ms  DeleteObjects: 0.051318 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1864 -> priority: 1 
+  Thread -> id: b8 -> priority: 1 
+Pickup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Pickup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Pickup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.093090 ms
+Finding Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 14340.
+Total: 2.263916 ms (FindLiveObjects: 0.440312 ms CreateObjectMapping: 0.110334 ms MarkObjects: 1.668108 ms  DeleteObjects: 0.044903 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 634 -> priority: 1 
+  Thread -> id: 6b0 -> priority: 1 
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.512458 ms
+Finding Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 16280.
+Total: 2.305484 ms (FindLiveObjects: 0.440826 ms CreateObjectMapping: 0.172686 ms MarkObjects: 1.661693 ms  DeleteObjects: 0.030277 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 17c0 -> priority: 1 
+  Thread -> id: 19dc -> priority: 1 
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.519899 ms
+Finding Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 17974.
+Total: 3.012909 ms (FindLiveObjects: 0.601452 ms CreateObjectMapping: 0.190648 ms MarkObjects: 2.187964 ms  DeleteObjects: 0.032843 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 167c -> priority: 1 
+  Thread -> id: 1b24 -> priority: 1 
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.954509 ms
+Finding Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 22603.
+Total: 2.820208 ms (FindLiveObjects: 0.500612 ms CreateObjectMapping: 0.186799 ms MarkObjects: 2.079169 ms  DeleteObjects: 0.053371 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1b4c -> priority: 1 
+  Thread -> id: c3c -> priority: 1 
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.811014 ms
+Finding Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 17275.
+Total: 2.258014 ms (FindLiveObjects: 0.421838 ms CreateObjectMapping: 0.174226 ms MarkObjects: 1.620638 ms  DeleteObjects: 0.041054 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1b10 -> priority: 1 
+  Thread -> id: 1b68 -> priority: 1 
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 21.088316 ms
+Finding Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 18168.
+Total: 2.652140 ms (FindLiveObjects: 0.565530 ms CreateObjectMapping: 0.175252 ms MarkObjects: 1.853624 ms  DeleteObjects: 0.057476 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1140 -> priority: 1 
+  Thread -> id: 40 -> priority: 1 
+Pickup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Pickup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.085628 ms
+Finding Tiles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 14766.
+Total: 1.820780 ms (FindLiveObjects: 0.316891 ms CreateObjectMapping: 0.094426 ms MarkObjects: 1.389705 ms  DeleteObjects: 0.019501 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 19bc -> priority: 1 
+  Thread -> id: 1b50 -> priority: 1 
+Joystick disconnected ("Controller (XBOX 360 For Windows)").
+ 
+(Filename:  Line: 1257)
+
+Joystick disconnected ("Controller (XBOX 360 For Windows)").
+ 
+(Filename:  Line: 708)
+
